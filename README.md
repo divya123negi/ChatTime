@@ -1,4 +1,4 @@
-💬 ChatTiime – Real-Time Chat Application  (https://chattime-9rae.onrender.com)
+💬 ChatTiime – 
 
 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js), Zustand, Socket.IO, Tailwind CSS
 
